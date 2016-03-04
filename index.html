@@ -9,6 +9,8 @@
 </marquee>
 </font>
 	<img src="imagenn2.jpg" alt="25">
+	<<img src="estud.jpg" alt="">
 <h1>Para una persona muy especial osea tu!!!!!!</h1>
+<h1>eres el mejor profesor</h1>
 </body>
 </html>
